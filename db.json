@@ -1,0 +1,41 @@
+{
+  "todoList": [
+    {
+      "text": "1212121",
+      "isDone": false,
+      "id": 1
+    },
+    {
+      "text": "123sadasac",
+      "isDone": false,
+      "id": 2
+    },
+    {
+      "text": "asasasasasasasasasa",
+      "isDone": false,
+      "id": 4
+    },
+    {
+      "text": "asdas",
+      "isDone": true,
+      "id": 5
+    },
+    {
+      "text": "22222",
+      "isDone": true,
+      "id": 6
+    }
+  ],
+  "weatherList": [
+    {
+      "cityName": "Ahmedabad",
+      "temp": 30,
+      "tempType": "C"
+    },
+    {
+      "cityName": "Mumbai",
+      "temp": 30,
+      "tempType": "C"
+    }
+  ]
+}
